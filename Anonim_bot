@@ -1,6 +1,6 @@
 import telebot
 
-token = '5536048858:AAG6QxffPFJSVM_9WLzRKJW_QCwar60fh9s'
+token = 'Your token'
 bot = telebot.TeleBot(token)
 channel_id = '@yandex_chan'
 
